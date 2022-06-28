@@ -1,0 +1,18 @@
+[
+      {
+            "username": "aarti biradar",
+            "phoneNo": 1234567890,
+            "age": 20,
+            "description": "student",
+            "hobby": "dance",
+            "password": "Aarti@123"
+      },
+      {
+            "name": "muskan",
+            "surname": "tonde",
+            "age": 18,
+            "username": "musu_0931",
+            "hobby": "dancing",
+            "password": "muskan@123"
+      }
+]
